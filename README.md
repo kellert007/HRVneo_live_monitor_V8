@@ -64,6 +64,16 @@ Results will be saved in `/results_newengine/ID007/` as `.csv` and `.pdf`.
 
 ---
 
+## 🧠 A note on HRV calculations and NeuroKit2
+
+This tool builds upon the powerful open-source library [**NeuroKit2**](https://neurokit2.readthedocs.io/), which provides robust and validated implementations of HRV analysis functions. All core HRV metrics—time-domain, frequency-domain, and nonlinear—are computed using `neurokit2.hrv()` based on detected R-peaks from cleaned ECG signals.
+
+We gratefully acknowledge the developers of NeuroKit2 for enabling advanced physiological signal processing in Python.
+
+> Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., Schölzel, C., & Chen, S. A. (2021). NeuroKit2: A Python toolbox for neurophysiological signal processing. *Behavior Research Methods*, 53(4), 1689–1696. https://doi.org/10.3758/s13428-020-01516-y
+
+---
+
 ## 📊 Example output
 
 <p align="center">
