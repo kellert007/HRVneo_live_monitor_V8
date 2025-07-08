@@ -5,7 +5,7 @@ A real-time heart rate variability (HRV) monitor for neonatal ECG data – devel
 This tool was created and used in the study:
 
 > **From Standard ECG to Digital Insight: Decoding Autonomic Balance and Transitions During Kangaroo Care in Extremely Preterm Infants**  
-> Keller, T. et al. (2025) – submitted to *npj Digital Medicine*
+> Keller, T. et al. (2025) – under submission
 
 ---
 
