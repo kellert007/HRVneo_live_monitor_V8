@@ -85,16 +85,9 @@ We gratefully acknowledge the developers of NeuroKit2 for enabling advanced phys
 
 ## 📄 Citation
 
-If you use this tool in your research or clinical setting, please cite:
-```bibtex
-@article{keller2025hrv,
-  title={Decoding Autonomic Balance in ELGANs: HRV Signatures Before, During, and After Kangaroo Care},
-  author={Keller, Titus et al.},
-  journal={npj Digital Medicine},
-  year={2025},
-  note={submitted}
-}
-```
+📝 Citation  
+A citation will be added once the manuscript is accepted and published.
+
 
 ---
 
