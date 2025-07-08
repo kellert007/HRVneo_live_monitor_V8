@@ -67,8 +67,9 @@ Results will be saved in `/results_newengine/ID007/` as `.csv` and `.pdf`.
 ## 📊 Example output
 
 <p align="center">
-  <img src="https://github.com/yourusername/HRVneo-LiveMonitor/blob/main/example_output.png" width="600" alt="Live HRV Plot Example"/>
+  <img src="example_output.png" width="600" alt="Live HRV Plot Example"/>
 </p>
+
 
 ---
 
