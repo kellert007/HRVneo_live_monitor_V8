@@ -2,10 +2,10 @@
 
 A real-time heart rate variability (HRV) monitor for neonatal ECG data – developed for clinical and research use in extremely preterm infants.
 
-This tool was created and used in the study:
+This repository contains code and tools related to our recent study on real-time heart rate variability (HRV) monitoring in extremely preterm infants during Kangaroo Care.
 
-> **From Standard ECG to Digital Insight: Decoding Autonomic Balance and Transitions During Kangaroo Care in Extremely Preterm Infants**  
-> Keller, T. et al. (2025) – under submission
+The manuscript has been submitted to a peer-reviewed journal and is currently under review.
+
 
 ---
 
